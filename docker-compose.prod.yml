@@ -1,0 +1,4 @@
+services:
+  app:
+    image: ${ECR_IMAGE}
+    build: !reset null

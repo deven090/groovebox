@@ -1,0 +1,16 @@
+.git
+.gitignore
+.env
+.env.example
+db.sqlite3
+*.sqlite3
+__pycache__/
+*.pyc
+*.pyo
+staticfiles/
+media/*.mp3
+media/*.mp4
+website_images/
+*.md
+.vagrant/
+Vagrantfile
